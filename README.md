@@ -3,6 +3,7 @@
 This project does/will contain a few components that I have made or collected
 over time.
 It is written in typescript and uses styled components as the styling solution.
+It uses storybook to make designing components easy.
 But apart from that is should not contain any dependencies.
 
 # Information below on getting started with this project
