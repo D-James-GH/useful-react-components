@@ -1,3 +1,17 @@
+# Useful components
+
+This project does/will contain a few components that I have made or collected
+over time.
+It is written in typescript and uses styled components as the styling solution.
+But apart from that is should not contain any dependencies.
+
+# Information below on getting started with this project
+
+- clone repo
+- cd into the directory
+- run `npm install`
+  Then read the steps below about create react app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
