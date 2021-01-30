@@ -20,7 +20,6 @@ const StyledButton: any = styled.button<IStyledButton>`
     font-size: ${props.fontSize};
     border-radius: ${props.borderRadius};
   `};
-
   overflow: hidden;
   position: relative;
   cursor: pointer;
