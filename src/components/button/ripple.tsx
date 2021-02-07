@@ -88,7 +88,7 @@ const Ripple: FunctionComponent<IRippleProps> = ({
               width: ripple.size,
               height: ripple.size,
             }}
-          ></span>
+          />
         ))}
     </RippleContainer>
   );
